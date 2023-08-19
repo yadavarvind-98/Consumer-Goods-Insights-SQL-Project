@@ -11,6 +11,6 @@ Metdata.txt - contains information regarding data tables
 [Project Link](https://codebasics.io/challenge/codebasics-resume-project-challenge)
 
 ## Tools Used
-1) MySQL - to run SQL queries
+1) MySQL - to write SQL queries
 2) MS Excel - for visualization
 3) MS Powerpoint - to create presentation
